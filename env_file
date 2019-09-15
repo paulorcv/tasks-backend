@@ -1,0 +1,5 @@
+// renomear [ara .env
+
+module.exports = {
+    authSecret: ''
+}
